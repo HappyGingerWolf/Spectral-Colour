@@ -4,3 +4,4 @@ author: "GingerWolf"
 description: "A texture pack that makes everything edgier, red and black colours."
 version: "1"
 minGameVersion: "103"
+hidden: true
